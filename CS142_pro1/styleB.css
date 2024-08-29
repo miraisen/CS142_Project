@@ -1,0 +1,113 @@
+body {
+    display: flex;
+    flex-flow: row;
+    /*justify-content: center; /* 水平居中 */
+    /*align-items: center; /* 垂直居中 */
+    height: 100vh; /* 设置body的高度为视口高度 */
+    margin: 0; /* 移除body的默认边距 */
+}
+
+div1 {
+    width: 100px;
+    border-left-style: dotted;
+    border-left-color: #D0D0FF;
+    border-left-width: 10px;
+    padding: 10px;
+    background-color: #eeeff2;
+    margin: 10px;
+    height: 150px;
+    cursor: pointer;
+}
+
+div2 {
+    width: 100px;
+    border-left-style: dotted;
+    border-left-color: #D0D0FF;
+    border-left-width: 10px;
+    padding: 10px;
+    background-color: #eeeff2;
+    margin: 10px;
+    height: 150px;
+    cursor: pointer;
+}
+
+div3 {
+    width: 100px;
+    border-left-style: dotted;
+    border-left-color: #D0D0FF;
+    border-left-width: 10px;
+    padding: 10px;
+    background-color: #eeeff2;
+    margin: 10px;
+    height: 150px;
+    cursor: pointer;
+}
+
+div4 {
+    width: 100px;
+    border-left-style: dotted;
+    border-left-color: #D0D0FF;
+    border-left-width: 10px;
+    padding: 10px;
+    background-color: #eeeff2;
+    margin: 10px;
+    height: 150px;
+    cursor: pointer;
+}
+
+div5 {
+    width: 100px;
+    border-left-style: dotted;
+    border-left-color: #D0D0FF;
+    border-left-width: 10px;
+    padding: 10px;
+    background-color: #eeeff2;
+    margin: 10px;
+    height: 150px;
+    cursor: pointer;
+}
+
+div6 {
+    width: 100px;
+    border-left-style: dotted;
+    border-left-color: #D0D0FF;
+    border-left-width: 10px;
+    padding: 10px;
+    background-color: #eeeff2;
+    margin: 10px;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+    cursor: pointer;
+}
+
+div1:hover{
+    background-color: yellow;
+    color:goldenrod;
+}
+
+div2:hover{
+    background-color: yellow;
+    color: goldenrod;
+}
+
+div3:hover{
+    background-color: yellow;
+    color: goldenrod;
+}
+
+div4:hover{
+    background-color: yellow;
+    color: goldenrod;
+}
+
+div5:hover{
+    background-color: yellow;
+    color: goldenrod;
+}
+
+div6:hover{
+    background-color: yellow;
+    color: goldenrod;
+}
